@@ -1,0 +1,15 @@
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\EMSProject.csprojAssemblyReference.cache
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\MainWindow.g.cs
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\App.g.cs
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\EMSProject_MarkupCompile.cache
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\EMSProject_MarkupCompile.lref
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\MainWindow.baml
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\EMSProject.g.resources
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\EMSProject.Properties.Resources.resources
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\EMSProject.csproj.GenerateResource.cache
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\EMSProject.csproj.CoreCompileInputs.cache
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\EMSProject.pdb
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\bin\Debug\EMSProject.exe.config
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\bin\Debug\EMSProject.exe
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\bin\Debug\EMSProject.pdb
+C:\Users\Teodor\Desktop\EMS Project\EMSProject\EMSProject\obj\Debug\EMSProject.exe

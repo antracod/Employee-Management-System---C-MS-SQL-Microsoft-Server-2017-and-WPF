@@ -1,0 +1,1 @@
+﻿SELECT e.SurName FROM Employees e inner join WorkAllocation za on e.Id = za.EmployeeID where za.LocationID!=0
